@@ -1,20 +1,20 @@
-sub-category
-food trucks
-rock
-web
-plays
-""
-electric music
-indie rock
-wearables
-nonfiction
-video games
-fiction
-photography books
-radio
-metal
-jazz
-translations
-mobile games
-world music
-audio
+subcategory_id,subcategory
+subcat1,food trucks
+subcat2,rock
+subcat3,web
+subcat4,plays
+subcat5,
+subcat6,electric music
+subcat7,indie rock
+subcat8,wearables
+subcat9,nonfiction
+subcat10,video games
+subcat11,fiction
+subcat12,photography books
+subcat13,radio
+subcat14,metal
+subcat15,jazz
+subcat16,translations
+subcat17,mobile games
+subcat18,world music
+subcat19,audio
